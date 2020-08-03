@@ -24,7 +24,7 @@ with open('COPYING') as f:
 setup(
     name='dataclasses_hierarchy',
     version=get_version_from_init(),
-    description='Dataclasses-hierarchy: hierarchies and chained initalization for dataclasses',
+    description='Dataclasses-hierarchy: hierarchies and chained methods for dataclasses',
     long_description=readme,
     author='Cédric Hernaslteens',
     author_email='cedric.hernalsteens@ulb.be',
